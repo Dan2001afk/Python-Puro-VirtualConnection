@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Configuración 1",
+      "value": 30,
+      "lower_bound": 0,
+      "upper_bound": 100
+    },
+    {
+      "name": "Configuración 2",
+      "value": 50,
+      "lower_bound": 10,
+      "upper_bound": 90
+    }
+  ]
