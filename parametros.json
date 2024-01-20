@@ -1,0 +1,17 @@
+{
+    "modal1": {
+      "frequency": 2,
+      "phase": 0
+    },
+    "modal2": {
+      "dial_value": 50,
+      "dial_lower_bound": 0,
+      "dial_upper_bound": 100
+    },
+    "modal3": {
+      "linear_gauge_value": 30,
+      "linear_gauge_lower_bound": 0,
+      "linear_gauge_upper_bound": 20000
+    }
+  }
+  
